@@ -48,8 +48,3 @@ If you want to help improve this tool, feel free to open:
 - Issues  
 - Pull Requests  
 - Feature Suggestions  
-
----
-
-## 📩 Contact
-For suggestions or collab: **anishrajyadav97@gmail.com**
